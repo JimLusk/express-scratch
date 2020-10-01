@@ -1,0 +1,12 @@
+[
+    {"id":1,"asset_name":"Barclays PLC","asset_price":"$229.06","shares_held":2},
+    {"id":2,"asset_name":"Evertec, Inc.","asset_price":"$324.68","shares_held":3},
+    {"id":3,"asset_name":"STERIS plc","asset_price":"$138.37","shares_held":8},
+    {"id":4,"asset_name":"Covisint Corporation","asset_price":"$339.32","shares_held":12},
+    {"id":5,"asset_name":"Newtek Business Services Corp.","asset_price":"$167.07","shares_held":13},
+    {"id":6,"asset_name":"Stag Industrial, Inc.","asset_price":"$63.75","shares_held":2},
+    {"id":7,"asset_name":"Precision Drilling Corporation","asset_price":"$484.90","shares_held":5},
+    {"id":8,"asset_name":"Realty Income Corporation","asset_price":"$179.36","shares_held":4},
+    {"id":9,"asset_name":"AngioDynamics, Inc.","asset_price":"$274.32","shares_held":20},
+    {"id":10,"asset_name":"Edge Therapeutics, Inc.","asset_price":"$325.75","shares_held":2}
+]

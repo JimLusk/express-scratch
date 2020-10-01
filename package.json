@@ -1,0 +1,21 @@
+{
+  "name": "express-scratch",
+  "version": "1.0.0",
+  "description": "Scratch project for express and node experimentation and learning.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js --exec babel-node -e js",
+    "debug": "DEBUG=express:* nodemon ./server.js --exec babel-node -e js"
+  },
+  "author": "Jim Lusk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
